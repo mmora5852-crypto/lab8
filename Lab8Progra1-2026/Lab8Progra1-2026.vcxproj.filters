@@ -30,6 +30,15 @@
     <ClCompile Include="Classes\TomatoesRepository.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
+=======
+    <ClCompile Include="Classes\HerbsRepository.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\CheeseRepository.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+>>>>>>> c8cf298 (Agregué CheeseRepository y todos los archivos necesarios para el ingrediente queso)
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Headers\DataLoader.h">
@@ -44,6 +53,15 @@
     <ClInclude Include="Headers\TomatoesRepository.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+<<<<<<< HEAD
+=======
+    <ClInclude Include="Headers\HerbsRepository.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\CheeseRepository.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+>>>>>>> c8cf298 (Agregué CheeseRepository y todos los archivos necesarios para el ingrediente queso)
   </ItemGroup>
   <ItemGroup>
     <Text Include="Data\cheese.txt" />
