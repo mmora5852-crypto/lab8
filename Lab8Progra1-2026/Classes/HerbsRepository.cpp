@@ -26,7 +26,7 @@ void HerbsRepository::UpdateQuantity(const std::string& herbType, int newQuantit
 
     it->second[0] = std::to_string(newQuantity);
 
-    std::ofstream out("Data/herbs.txt");
+    std::ofstream out("herbs.txt");
 
     if (!out) {
         throw std::runtime_error("No se puede guardar el archivo herbs.txt");
