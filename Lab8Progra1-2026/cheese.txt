@@ -1,0 +1,7 @@
+Parmesan: 180
+Mozzarella: 500
+Cheddar: 250
+Blue Cheese: 59
+Cream Cheese: 120
+Gouda: 0
+Feta: 200
