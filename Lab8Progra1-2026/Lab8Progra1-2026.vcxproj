@@ -150,10 +150,8 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Classes\PizzaBuilder.cpp" />
     <ClCompile Include="Classes\TomatoesRepository.cpp" />
-    <ClCompile Include="MeatsRepository.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MeatsRepository.h" />
     <ClInclude Include="Headers\CheeseRepository.h" />
     <ClInclude Include="Headers\DataLoader.h" />
     <ClInclude Include="Headers\HerbsRepository.h" />

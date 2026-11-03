@@ -1,8 +1,0 @@
-Mignon: 80
-Pepperoni: 300
-Bacon: 180
-Sausage: 1
-Chicken: 219
-Shrimp: 150
-Prosciutto: 90
-Ham: 159
