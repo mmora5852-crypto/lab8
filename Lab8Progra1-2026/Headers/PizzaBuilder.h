@@ -2,11 +2,8 @@
 #include <vector>
 #include <string>
 #include "TomatoesRepository.h"
-<<<<<<< HEAD
-=======
 #include "HerbsRepository.h"
 #include "CheeseRepository.h"
->>>>>>> c8cf298 (Agregué CheeseRepository y todos los archivos necesarios para el ingrediente queso)
 #include "IngredientSelector.h"
 
 class PizzaBuilder {
@@ -42,5 +39,5 @@ private:
     // TODO: agrega aquí la lista de tu ingrediente.
     const std::vector<std::string> availableCheeses_ = { "Mozzarella", "Cheddar", "Parmesan", "Cream Cheese", "Gouda", "Blue Cheese", "Feta"};
     // const std::vector<std::string> availableMeats_ = { ... };
-    // const std::vector<std::string> availableHerbs_ = { ... };
+    const std::vector<std::string> availableHerbs_ = { "Basil", "Parsley", "Oregano", "Thyme", "Rosemary", "Cilantro", "Sage", "Chives" };
 };
